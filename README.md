@@ -1,7 +1,7 @@
 
 # 微信好友分析
 
-## 功能说明：用作者的微信号进行示范
+## 功能说明：
 #### 1：统计好友的性别
 ![python](https://github.com/yangxuanxc/wechat_friends/blob/master/source/1.jpeg)
 #### 2：统计好友的地域分布，并且可视化在地图上展示
@@ -39,21 +39,3 @@ python3 get_user_info.py
 #### 统计用户信息
 python3 analyse.py
 会在analyse文件夹下生产合成后的图片以及可视化的文件
-
-## 教程
-本程序作者编写了介绍文档并且录制了相关视频讲解代码，如果有需要的朋友
-- 请关注微信公众号：**大数据前沿** 
-- 获得视频教程请在消息窗口回复：**微信好友**
-- 同时更详细的介绍以及该程序更多的扩展请查看公众号历史消息查看相应文章获取。
-
-扫码下方二维码关注
-
-<img height="300" align="center" src="https://github.com/yangxuanxc/wechat_friends/blob/master/source/ewm.png" alt="">
-
-
-## 赞赏与支持
-- 如果你觉得本文还不错，请微信扫描下方小程序码赞赏支持，谢谢。
-- 别忘记点个start哦。
-
-<img height="300" align="center" src="https://github.com/yangxuanxc/wechat_friends/blob/master/source/zs.jpeg" alt="">
-    
